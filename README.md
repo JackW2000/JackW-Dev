@@ -3,7 +3,7 @@
 ## Welcome to my GitHub, it's nice to see you!
 
 ### About me:
-I am a BSc Computer Science student with a passion for programming and learning new things!
+I am a BSc Computer Science graduate (First class with honours) with a passion for programming and learning new things!
 
 🎯 I’m currently learning [Dart with Flutter!](https://flutter.dev/)
 
