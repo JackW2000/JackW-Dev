@@ -7,21 +7,15 @@ I am a BSc Computer Science graduate (First class with honours) with a passion f
 
 🎯 I’m currently learning [Dart with Flutter!](https://flutter.dev/)
 
-💻 Check out my work at: [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
+📝 Check out my work at [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
 
 💬 Ask me about <b>music genre classification</b> and classification machine learning.
 
 💻 Learn more about me at [My Website](https://jackwalker.dev/)
 
-📫 How to reach me: info@jackwalker.dev
+📫 How to reach me info@jackwalker.dev
 
-### 👨‍💻  My GitHub Stats:
-
-![JackW-Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackW-Dev&theme=omni&show_icons=true&&count_private=true&include_all_commits=true)
-
-![JackW-Dev Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackW-Dev&theme=omni&show_icons=true&layout=compact&langs_count=8&hide=javascript,html,css)
-
-## Languages, frameworks and platforms that I use/ am learning:
+## Languages, Frameworks, and Platforms that I use/ am learning:
 
 ### Languages:
 
@@ -48,3 +42,9 @@ I am a BSc Computer Science graduate (First class with honours) with a passion f
 
 ![Azure Shield](https://img.shields.io/badge/Platform-Azure-indigo?style=flat-square&logoColor=white&logo=Microsoft-Azure)
 ![Firebase Shield](https://img.shields.io/badge/Platform-Firebase-indigo?style=flat-square&logoColor=white&logo=Firebase)
+
+### My GitHub Stats:
+
+![JackW-Dev Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackW-Dev&theme=onedark&show_icons=true&layout=compact&langs_count=8&hide=javascript,html,css)
+
+![JackW-Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackW-Dev&theme=onedark&show_icons=true&&count_private=true&include_all_commits=true)
