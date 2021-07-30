@@ -1,6 +1,6 @@
-# Hi! I'm Jack! 👋
+# Hi, I'm Jack!
 
-## Welcome to my GitHub, it's nice to see you!
+## Welcome to my GitHub profile!
 
 ### About me:
 I am a BSc Computer Science graduate (First class with honours) with a passion for programming and learning new things!
@@ -9,9 +9,11 @@ I am a BSc Computer Science graduate (First class with honours) with a passion f
 
 💻 Check out my work at: [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
 
-💬 Ask me about <b>music genre classification</b>, I'd love to discuss it further!
+💬 Ask me about <b>music genre classification</b> and classification machine learning.
 
-📫 How to reach me: jack.walker@student.staffs.ac.uk
+💻 Learn more about me at [My Website](https://jackwalker.dev/)
+
+📫 How to reach me: info@jackwalker.dev
 
 ### 👨‍💻  My GitHub Stats:
 
