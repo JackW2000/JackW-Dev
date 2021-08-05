@@ -5,7 +5,7 @@
 ### About me:
 I am a BSc Computer Science graduate (First class with honours) with a passion for programming and learning new things!
 
-🎯 I’m currently learning [Dart with Flutter!](https://flutter.dev/)
+🎯 I’m currently learning [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network) with [Keras](https://keras.io/)
 
 📝 Check out my work at [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
 
@@ -37,6 +37,8 @@ I am a BSc Computer Science graduate (First class with honours) with a passion f
 ![Android Shield](https://img.shields.io/badge/Framework-Android-mediumpurple?style=flat-square&logoColor=white&logo=Android)
 ![Flutter Shield](https://img.shields.io/badge/Framework-Flutter-mediumpurple?style=flat-square&logoColor=white&logo=Flutter)
 ![SciKit-Learn Shield](https://img.shields.io/badge/Framework-SciKit--Learn-mediumpurple?style=flat-square&logoColor=white&logo=SciKit-Learn)
+![Keras Shield](https://img.shields.io/badge/Framework-Keras-mediumpurple?style=flat-square&logoColor=white&logo=Keras)
+
 
 ### Platforms:
 
