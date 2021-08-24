@@ -47,6 +47,6 @@ I am a BSc Computer Science graduate (First class with honours) with a passion f
 
 ### My GitHub Stats:
 
-![JackW-Dev Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackW-Dev&theme=onedark&show_icons=true&layout=compact&langs_count=8&hide=javascript,html,css,cmake,php)
+![JackW-Dev Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackW-Dev&theme=onedark&show_icons=true&layout=compact&langs_count=8&hide=javascript,html,css,cmake,php,jupyter%20notebook)
 
 ![JackW-Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackW-Dev&theme=onedark&show_icons=true&&count_private=true&include_all_commits=true)
