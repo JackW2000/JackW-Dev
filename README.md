@@ -4,16 +4,24 @@
 
 ### About me:
 I am a BSc Computer Science graduate (First class with honours) with a passion for programming and learning new things!
+Currently I am a Software Engineer working for Capgemini on the HMRC business unit within the core systems and transformation team.
 
-🎯 I’m currently learning [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network) with [Keras](https://keras.io/)
+I don't really have a favourite area of work and am always happy to give something a go!
+Want to discuss a project or topic with me? Feel free to get in touch!
 
-📝 Check out my work at [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
+I plan on working on more side projects soon when I get time!
 
-💬 Ask me about <b>music genre classification</b> and classification machine learning.
+Below is a quick glance at what I am doing/ have experience in.
 
-💻 Learn more about me at [My Website](https://jackwalker.dev/)
+Currently learning: Unix, Shell scripting (Bash, KornShell), and PL/SQL.
 
-📫 How to reach me info@jackwalker.dev
+My work: [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
+
+More about me: [My Website](https://jackwalker.dev/)
+
+Contact me: info@jackwalker.dev
+
+Want a bit more detail about me? Check out my [CV](https://raw.githubusercontent.com/JackW-Dev/JackW-Dev.github.io/main/Jack%20Walker%20CV.pdf)
 
 ## Languages, Frameworks, and Platforms that I use/ am learning:
 
