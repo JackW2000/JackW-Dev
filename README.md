@@ -9,11 +9,9 @@ Currently I am a Software Engineer working for Capgemini on the HMRC business un
 I don't really have a favourite area of work and am always happy to give something a go!
 Want to discuss a project or topic with me? Feel free to get in touch!
 
-I plan on working on more side projects soon when I get time!
-
 Below is a quick glance at what I am doing/ have experience in.
 
-Currently learning: Unix, Shell scripting (Bash, KornShell), and PL/SQL.
+Currently learning: Scala
 
 My work: [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
 
