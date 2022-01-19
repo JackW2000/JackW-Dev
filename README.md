@@ -11,7 +11,7 @@ Want to discuss a project or topic with me? Feel free to get in touch!
 
 Below is a quick glance at what I am doing/ have experience in.
 
-Currently learning: Scala
+Currently learning: Scala, BitBucket, and Bamboo
 
 My work: [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
 
@@ -50,6 +50,8 @@ Want a bit more detail about me? Check out my [CV](https://raw.githubusercontent
 
 ![Azure Shield](https://img.shields.io/badge/Platform-Azure-indigo?style=flat-square&logoColor=white&logo=Microsoft-Azure)
 ![Firebase Shield](https://img.shields.io/badge/Platform-Firebase-indigo?style=flat-square&logoColor=white&logo=Firebase)
+![BitBucket Shield](https://img.shields.io/badge/Platform-BitBucket-indigo?style=flat-square&logoColor=white&logo=BitBucket)
+![Bamboo Shield](https://img.shields.io/badge/Platform-Bamboo-indigo?style=flat-square&logoColor=white&logo=Bamboo)
 
 ### My GitHub Stats:
 
