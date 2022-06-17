@@ -3,32 +3,25 @@
 ## Welcome to my GitHub profile!
 
 ### About me:
-I am a BSc Computer Science graduate (First class with honours) with a passion for programming and learning new things!
-Currently I am a Software Engineer working for Capgemini on the HMRC business unit within the core systems and transformation team.
+I am a Software Engineer working for Capgemini on the HMRC business unit.
 
-I don't really have a favourite area of work and am always happy to give something a go!
-Want to discuss a project or topic with me? Feel free to get in touch!
+In 2021 I graduated from Staffordshire University with a Fist Class Honours BSc Computer Science degree.
 
-Below is a quick glance at what I am doing/ have experience in.
+ISTQB Certified Tester (Foundation Level)
 
-Currently learning: Scala, BitBucket, and Bamboo
+Currently working towards becoming a certified AWS Cloud Practitioner.
 
-My work: [JackW-Dev](https://github.com/JackW-Dev?tab=repositories)
+Find out more about me [here](https://jackwalker.dev/) and [here](https://raw.githubusercontent.com/JackW-Dev/JackW-Dev.github.io/main/Jack%20Walker%20CV.pdf) (website and CV).
 
-More about me: [My Website](https://jackwalker.dev/)
-
-Contact me: info@jackwalker.dev
-
-Want a bit more detail about me? Check out my [CV](https://raw.githubusercontent.com/JackW-Dev/JackW-Dev.github.io/main/Jack%20Walker%20CV.pdf)
+Get in touch with me using the following email info@jackwalker.dev
 
 ## Languages, Frameworks, and Platforms that I use/ am learning:
 
 ### Languages:
 
-![Kotlin Shield](https://img.shields.io/badge/Code-Kotlin-teal?style=flat-square&logoColor=white&logo=Kotlin)
-![C Shield](https://img.shields.io/badge/Code-C-teal?style=flat-square&logoColor=white&logo=C)
-![Python Shield](https://img.shields.io/badge/Code-Python-teal?style=flat-square&logoColor=white&logo=Python)
 ![Java Shield](https://img.shields.io/badge/Code-Java-teal?style=flat-square&logoColor=whitee&logo=Java)
+![C Shield](https://img.shields.io/badge/Code-C-teal?style=flat-square&logoColor=white&logo=C)
+![Kotlin Shield](https://img.shields.io/badge/Code-Kotlin-teal?style=flat-square&logoColor=white&logo=Kotlin)
 ![Dart Shield](https://img.shields.io/badge/Code-Dart-teal?style=flat-square&logoColor=white&logo=Dart)
 ![C++ Shield](https://img.shields.io/badge/Code-C++-teal?style=flat-square&logoColor=white&logo=C%2b%2b)
 ![Go Shield](https://img.shields.io/badge/Code-Go-teal?style=flat-square&logoColor=white&logo=Go)
@@ -36,7 +29,7 @@ Want a bit more detail about me? Check out my [CV](https://raw.githubusercontent
 ![HTML Shield](https://img.shields.io/badge/Code-HTML-teal?style=flat-square&logoColor=white&logo=HTML5)
 ![CSS Shield](https://img.shields.io/badge/Code-CSS-teal?style=flat-square&logoColor=white&logo=CSS3)
 ![JavaScript Shield](https://img.shields.io/badge/Code-JavaScript-teal?style=flat-square&logoColor=white&logo=JavaScript)
-
+![PLSQL Shield](https://img.shields.io/badge/Code-PL/SQL-teal?style=flat-square&logoColor=white&logo=oracle)
 
 ### Frameworks:
 
@@ -44,7 +37,6 @@ Want a bit more detail about me? Check out my [CV](https://raw.githubusercontent
 ![Flutter Shield](https://img.shields.io/badge/Framework-Flutter-mediumpurple?style=flat-square&logoColor=white&logo=Flutter)
 ![SciKit-Learn Shield](https://img.shields.io/badge/Framework-SciKit--Learn-mediumpurple?style=flat-square&logoColor=white&logo=SciKit-Learn)
 ![Keras Shield](https://img.shields.io/badge/Framework-Keras-mediumpurple?style=flat-square&logoColor=white&logo=Keras)
-
 
 ### Platforms:
 
