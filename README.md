@@ -4,21 +4,21 @@
 
 ### Hi, I'm Jack
 
-I'm a Software Engineer at Capgemini working within the HMRC business unit.
+Software Engineer working at Capgemini on the HMRC account.
 
-Graduated in 2021 from Staffordshire University with a Fist Class Honours BSc Computer Science degree.
+Fist Class Honours BSc Computer Science graduate from Staffordshire University.
 
 ISTQB Certified Tester (Foundation Level)
 
-Currently working towards AWS Cloud Practitioner certification.
+Currently training for the AWS Cloud Practitioner certification.
 
-Find out more about me [here](https://jackwalker.dev/).
+Learn more [here](https://jackwalker.dev/).
 
 Email: info@jackwalker.dev
 
-Here's some of the languages, frameworks, and platforms that I have worked with or are currently using:
+Here are some languages, frameworks, and platforms that I am currently or have previously worked with:
 
-![Java Shield](https://img.shields.io/badge/Java-8a1252?style=flat-square&logoColor=whitee&logo=Java)
+![Java Shield](https://img.shields.io/badge/Java-8a1252?style=flat-square&logoColor=white&logo=Java)
 ![C Shield](https://img.shields.io/badge/C-8a1252?style=flat-square&logoColor=white&logo=C)
 ![Kotlin Shield](https://img.shields.io/badge/Kotlin-8a1252?style=flat-square&logoColor=white&logo=Kotlin)
 ![Dart Shield](https://img.shields.io/badge/Dart-8a1252?style=flat-square&logoColor=white&logo=Dart)
@@ -36,6 +36,7 @@ Here's some of the languages, frameworks, and platforms that I have worked with 
 ![Keras Shield](https://img.shields.io/badge/Keras-8a1252?style=flat-square&logoColor=white&logo=Keras)
 ![Azure Shield](https://img.shields.io/badge/Azure-8a1252?style=flat-square&logoColor=white&logo=Microsoft-Azure)
 ![Firebase Shield](https://img.shields.io/badge/Firebase-8a1252?style=flat-square&logoColor=white&logo=Firebase)
+![Maven Shield](https://img.shields.io/badge/Maven-8a1252?style=flat-square&logoColor=white&logo=Apache-Maven)
 ![BitBucket Shield](https://img.shields.io/badge/BitBucket-8a1252?style=flat-square&logoColor=white&logo=BitBucket)
 ![Bamboo Shield](https://img.shields.io/badge/Bamboo-8a1252?style=flat-square&logoColor=white&logo=Bamboo)
 
