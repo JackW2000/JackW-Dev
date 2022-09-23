@@ -30,10 +30,12 @@ Here are some languages, frameworks, and platforms that I am currently or have p
 ![JavaScript Shield](https://img.shields.io/badge/JavaScript-8a1252?style=flat-square&logoColor=white&logo=JavaScript)
 ![PLSQL Shield](https://img.shields.io/badge/PL/SQL-8a1252?style=flat-square&logoColor=white&logo=Oracle)
 ![Scala Shield](https://img.shields.io/badge/Scala-8a1252?style=flat-square&logoColor=white&logo=Scala)
+
 ![Android Shield](https://img.shields.io/badge/Android-8a1252?style=flat-square&logoColor=white&logo=Android)
 ![Flutter Shield](https://img.shields.io/badge/Flutter-8a1252?style=flat-square&logoColor=white&logo=Flutter)
 ![SciKit-Learn Shield](https://img.shields.io/badge/SciKit--Learn-8a1252?style=flat-square&logoColor=white&logo=SciKit-Learn)
 ![Keras Shield](https://img.shields.io/badge/Keras-8a1252?style=flat-square&logoColor=white&logo=Keras)
+
 ![Azure Shield](https://img.shields.io/badge/Azure-8a1252?style=flat-square&logoColor=white&logo=Microsoft-Azure)
 ![Firebase Shield](https://img.shields.io/badge/Firebase-8a1252?style=flat-square&logoColor=white&logo=Firebase)
 ![Maven Shield](https://img.shields.io/badge/Maven-8a1252?style=flat-square&logoColor=white&logo=Apache-Maven)
