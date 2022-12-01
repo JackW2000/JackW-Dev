@@ -8,7 +8,7 @@ Software Engineer working at [Capgemini](https://www.capgemini.com/gb-en/) on th
 
 Fist Class Honours BSc Computer Science graduate from Staffordshire University
 
-[Certified AWS Cloud Practitioner](https://www.istqb.org/certifications/certified-tester-foundation-level)
+[Certified AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 [ISTQB Certified Tester](https://www.istqb.org/certifications/certified-tester-foundation-level)
 
