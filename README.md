@@ -4,7 +4,7 @@ Software Engineer working at [Capgemini](https://www.capgemini.com/gb-en/) on th
 
 Fist Class Honours BSc Computer Science graduate from Staffordshire University
 
-Check out [my site](https://jackwalker.dev/) or [get in touch](mailto:info@jackwalker.dev)
+Check out [my site](https://nihilist.uk/) or [get in touch](mailto:info@nihilist.uk)
 
 <a href="https://www.credly.com/badges/d6a7f6b1-1f9e-49cb-b2e6-40de61f324f7">
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=100>
