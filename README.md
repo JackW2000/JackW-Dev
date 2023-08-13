@@ -23,6 +23,6 @@ Check out [my site](https://nihilist.uk/) or [get in touch](mailto:info@nihilist
   <div/>
   <img src="https://skillicons.dev/icons?i=idea,vscode"/>
   <div/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackW-Dev&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=10&hide=javascript,html,css,cmake,php,jupyter%20notebook"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackW2000&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=10&hide=javascript,html,css,cmake,php,jupyter%20notebook"/>
   <div/>
 </div>
