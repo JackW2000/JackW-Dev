@@ -10,5 +10,5 @@
   <img src="https://istqb-main-web-prod.s3.amazonaws.com/media/original_images/CTFL_J1Htlr0.png" width=100>
   <img src="https://i.ibb.co/SVFxBfy/OCI2024-GAIOCP.png" width=100/>
   <img src="https://i.ibb.co/zmKGygz/OCI23-AIFCA.png" width=100><div/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackW2000&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=10&hide=javascript,html,css,cmake,php,jupyter%20notebook"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackW2000&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=10&hide=jupyter%20notebook"/>
 </div>
