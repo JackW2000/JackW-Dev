@@ -17,6 +17,7 @@ Check out my site - [nihilist.uk](https://nihilist.uk)
 
 [<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=100>](https://www.credly.com/badges/d6a7f6b1-1f9e-49cb-b2e6-40de61f324f7/public_url)
 [<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=100>](https://www.credly.com/badges/3e4b0f37-76c5-4088-a6d6-b0a4859cf3dd/public_url)
+[<img src="https://images.credly.com/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width=100>](https://www.credly.com/badges/7f0dbcd3-b877-4794-8940-4d979e1fab77/public_url)
 [<img src="https://images.credly.com/size/680x680/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png" width=100>](https://www.credly.com/badges/b60dc5b8-2b9e-4de1-ba54-b15b18aeb09c/public_url)
 
 [<img src="https://i.ibb.co/SVFxBfy/OCI2024-GAIOCP.png" width=100>](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1960265745F67DC2F4376A5DC1F49F8948D3C80AF78AC77325DBBA179E8E9F43)
